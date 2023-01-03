@@ -1,0 +1,19 @@
+textarea{
+    width: 30%;
+    height: 10vh;
+    border: 1px solid black;
+}
+
+#btn-translate{
+    width: 6cm;
+    padding:1rem;
+    background-color: aliceblue;
+
+}
+
+#btn-translate:hover{
+
+    background-color:palevioletred;
+    cursor: pointer;
+    
+}
